@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-alqma&label=Profile%20views&color=0e75b6&style=flat" alt="md-alqma" /> </p>
 
 
-- 🔭 I’m currently working on **Disney + Hotstar Clone**
+- 🔭 I’m currently working on **Dominos-Pizza Clone**
 
 - 🌱 I’m currently learning **React, Redux, NodeJs, Express, MongoDB**
 
