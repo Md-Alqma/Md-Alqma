@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Md Alqma Ansari</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
@@ -6,7 +5,7 @@
 
 - 🔭 I’m currently working on **Disney + Hotstar Clone**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, Redux, NodeJs, Express, MongoDB**
 
 - 💬 Ask me about **MERN**
 
