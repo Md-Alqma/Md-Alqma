@@ -25,7 +25,7 @@
 <h2> My Projects :-</h2>
 <h3>Mahabis Clone &nbsp;<a  style="text-align:center;" href="https://dreamy-frangipane-645120.netlify.app/">Live <img src="./Images/external-link.png" width="20px" /></a></h3>
 
-<img width="80%" src="./Images/mahabis%20.png" />
+<img width="80%" src="./Images/mahabis.png" />
 
 <h3>Udemy Clone &nbsp;<a  style="text-align:center;" href="https://joyful-cendol-eadc85.netlify.app/">Live <img src="./Images/external-link.png" width="20px" /></a></h3>
 
