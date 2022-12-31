@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md Alqma Ansari</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
+
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-alqma&label=Profile%20views&color=0e75b6&style=flat" alt="md-alqma" /> </p>
 
-- 🔭 I’m currently working on **Disney + Hotstar Clone**
+
+- 🔭 I’m currently working on **Dominos-Pizza Clone**
 
 - 🌱 I’m currently learning **React, Redux, NodeJs, Express, MongoDB**
 
@@ -12,7 +14,7 @@
 - 📫 How to reach me **mdalqma7@gmail.com**
 
 - ⚡ Fun fact **I am funny**
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Md-Alqma" alt="Md-Alqma" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mdalqma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md alqma ansari" height="30" width="40" /></a>
