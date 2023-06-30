@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Md Alqma Ansari</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
 
+<h1 align="center">Hi 👋, I'm Md Alqma Ansari</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=24&duration=4000&pause=1000&color=0CF7ED&center=true&vCenter=true&width=320&lines=Full+Stack+Web+Developer;Always+learning+new+things)](https://git.io/typing-svg)
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-alqma&label=Profile%20views&color=0e75b6&style=flat" alt="md-alqma" /> </p>
 
