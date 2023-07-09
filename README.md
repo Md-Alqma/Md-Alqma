@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **ShopNow (Amazon Clone)**
 
-- 🌱 I’m currently learning **React, Redux, Tailwind, NextJS **
+- 🌱 I’m currently learning **React, Redux, Tailwind, NextJS**
 
 - 💬 Ask me about **MERN**
 
