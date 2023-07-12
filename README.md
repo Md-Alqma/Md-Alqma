@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **mdalqma7@gmail.com**
+- 📫 How to reach me **mdalqma786@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Md-Alqma" alt="Md-Alqma" /></a> </p>
