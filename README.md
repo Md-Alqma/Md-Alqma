@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mdalqma786@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am the Jedi of front-end, wielding my lightsaber-like skills to shape visually stunning websites that leave jaws dropping.**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Md-Alqma" alt="Md-Alqma" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
