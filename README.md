@@ -1,16 +1,27 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<br>
+<div align="center">
+  
+  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://alqma-portfolio.netlify.app/)
+  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/mdalqma)
+</div>
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Md-Alqma&style=flat-square&color=blue" alt=""/>
+</div>
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-## 🚀 About Me
-Frontend Enthusiast and Full Stack Alchemist: Crafting Digital Wonders
+---
 
-
-
-
-# 👋 Hey there! Welcome to my GitHub profile
-
-Passionate full-stack developer with a focus on frontend technologies. Creating user-centric web experiences with HTML, CSS, JavaScript, and React. 🚀
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://alqma-portfolio.netlify.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/mdalqma)
+### :man_technologist: About me
+Frontend Enthusiast and Full Stack Alchemist: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Crafting Digital Wonders.
 
 👩‍💻 I'm currently working on... Full Stack E-Commerce Site
 
@@ -22,20 +33,35 @@ Passionate full-stack developer with a focus on frontend technologies. Creating 
 
 💬 Ask me about... Web Design and Development
 
-📫 How to reach me... mdalqma786@gmail.com
+📫 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Alqma-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mdalqma)
 
 😄 Pronouns... He/Him
 
 ⚡️ Fun fact... I am the Jedi of front-end, wielding my lightsaber-like skills to shape visually stunning websites that leave jaws dropping.
-<div align="center">
-<!-- <img src="https://avatars.githubusercontent.com/u/111110478?v=4" align="center" style="width: 100%" /> -->
-</div>   
 
-<br/>  
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+</div>
+
+---
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<!---
+
+## My Skill Set  --->
+<!--- <table><tr><td valign="top" width="33%">
 
 
 
@@ -91,6 +117,7 @@ Passionate full-stack developer with a focus on frontend technologies. Creating 
 
 <br/>  
 
+--->
 
 ## Connect with me  
 <div align="center">
@@ -103,9 +130,11 @@ Passionate full-stack developer with a focus on frontend technologies. Creating 
 <a href="https://twitter.com/alqma_md" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div>
 
-## My GitHub Stats
+---
+
+### :fire: My Stats :
 
 <div align="center">
 <a href="http://www.github.com/Md-Alqma">
@@ -122,7 +151,3 @@ Passionate full-stack developer with a focus on frontend technologies. Creating 
 
 </a>
 <br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Md-Alqma&&style=flat-square" align="center" />
-</div>  
