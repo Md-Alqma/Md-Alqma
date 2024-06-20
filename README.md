@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://my-portfolio-three-rho-31.vercel.app/](https://alqma-dev.vercel.app/)
+ [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://alqma-dev.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdalqma)
 </div>
 
