@@ -9,7 +9,7 @@ Software Engineer building scalable backend systems and full-stack applications.
 - PostgreSQL, MongoDB
 - Drizzle ORM, Prisma
 - Docker, RESTful APIs
-- ts-rest for type-safe APIs
+- ts-rest/ORPC for type-safe APIs
 
 **Frontend**
 - React, Next.js, TypeScript
