@@ -42,7 +42,3 @@ Most of my work involves building authentication systems, RESTful APIs, and inte
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/alqma_md)
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Md-Alqma&show_icons=true&title_color=0891b2&text_color=333&icon_color=0891b2&bg_color=fff&hide_border=true" alt="GitHub Stats" />
-</div>
